@@ -2,14 +2,9 @@
  * SERVO_prog.c
  *
  * Created: 12/11/2025 4:53:37 AM
- *  Author: LENOVO
+ *  Author: Hassan Arif
  */ 
-/*
- * SERVO_prog.c
- *
- * Created: 12/11/2025 4:53:37 AM
- *  Author: HASSAN ARIF
- */ 
+
 #include "../../LIB/STD_TYPE.h"
 #include "../../LIB/BIT_MATH.h"
 #include "../../MCAL/DIO/DIO_interface.h"
